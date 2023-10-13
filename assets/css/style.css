@@ -391,6 +391,14 @@ div#map {
     min-height: 360px;
 }
 
+/*--------------------------------------------GH*/
+#loader {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+  }
+
 /*--------------------------------------------Media Queries*/
 
 @media(min-width: 992px) {
